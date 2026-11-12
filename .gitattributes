@@ -1,6 +1,2 @@
-*.bin.gz filter=lfs diff=lfs merge=lfs -text
-*/OTA_VER.txt -text
-*/SStarOtaLayout_ab.txt -text
-*/downgrade.txt -text
 *.md text eol=lf
 SHA256SUMS.txt text eol=lf
